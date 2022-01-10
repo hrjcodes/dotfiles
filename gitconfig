@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raze77@hotmail.com
+	name = Reza Jaffery
